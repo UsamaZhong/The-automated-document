@@ -1,2 +1,3 @@
-# The-automated-document
+# office-automation-starter
+
 A new automated  document project.
